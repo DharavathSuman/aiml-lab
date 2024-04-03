@@ -7,3 +7,5 @@
 4.[LAB-04](https://github.com/DharavathSuman/aiml-lab/blob/main/Assignment_4.ipynb)
 
 5.[LAB-05](https://github.com/DharavathSuman/aiml-lab/blob/main/Assignment_5.ipynb)
+
+8.[LAB-08](https://github.com/DharavathSuman/aiml-lab/blob/main/aiml_assessment_08.ipynb)
